@@ -4,45 +4,11 @@
   
     
     <entry>
-      <title>Deneme</title>
-      <link href="/Deneme/"/>
-      <url>/Deneme/</url>
+      <title>Sözlük hakkında</title>
+      <link href="/hakkinda/"/>
+      <url>/hakkinda/</url>
       
-        <content type="html"><![CDATA[<p>Deneme içeriği</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Nurcanin sozlugu yayinda</title>
-      <link href="/Nurcanin-sozlugu-yayinda/"/>
-      <url>/Nurcanin-sozlugu-yayinda/</url>
-      
-        <content type="html"><![CDATA[<p>Bu içerik Nurcan’ın sözlüğü admin paneli tarafında yazılmıştır.</p><p>Paneli kurmak ve giriş yapmak için aşağıdaki bilgiler kullanılabilir.</p><p>npm install –save hexo-admin<br>hexo server -d<br><a href="http://localhost:4000/admin">http://localhost:4000/admin</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> nurcan </tag>
-            
-            <tag> sozluk </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Merhaba Dunya</title>
-      <link href="/merhaba-dunya/"/>
-      <url>/merhaba-dunya/</url>
-      
-        <content type="html"><![CDATA[<p>Merhaba dunya bu denim ilk yazim</p>]]></content>
+        <content type="html"><![CDATA[<p>Nurcan’ın sözlüğü Nurcan Selamoğlu tarafından Hexo kullanılarak geliştirilmiştir.</p><p>2019 tüm hakları saklıdır, çalmak yasaktır :)</p><h2 id="Lorem-ipsum-baslik1"><a href="#Lorem-ipsum-baslik1" class="headerlink" title="Lorem ipsum başlık1"></a>Lorem ipsum başlık1</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum faucibus blandit interdum. Mauris accumsan tincidunt maximus. Sed ac ipsum at massa venenatis semper. Phasellus a erat a nisi condimentum vehicula quis sit amet erat. Ut nulla tellus, blandit vel nulla at, faucibus hendrerit sapien. Praesent at elit vel justo hendrerit bibendum ac vitae tellus. Vestibulum mollis leo eu ipsum elementum, dapibus auctor metus eleifend.</p><h2 id="Lorem-ipsum-baslik2"><a href="#Lorem-ipsum-baslik2" class="headerlink" title="Lorem ipsum başlık2"></a>Lorem ipsum başlık2</h2><p>Aenean posuere tempus quam ac bibendum. Quisque facilisis fermentum metus, sit amet porttitor enim malesuada in. Integer a bibendum purus. Praesent arcu orci, rutrum non faucibus ut, tempor at eros. Nunc faucibus pharetra justo, sit amet ultricies nulla iaculis sed. Fusce non ligula id tortor lacinia efficitur sit amet sit amet dolor. Morbi tempor sem vitae lacus pellentesque suscipit. Ut pharetra justo sit amet mauris dapibus porttitor. Vestibulum porttitor porttitor tristique. Aliquam ut purus id nunc imperdiet iaculis. Morbi eleifend sem nisi, at placerat neque fermentum at.</p><h2 id="Lorem-ipsum-baslik3"><a href="#Lorem-ipsum-baslik3" class="headerlink" title="Lorem ipsum başlık3"></a>Lorem ipsum başlık3</h2><p>Proin ornare orci non volutpat malesuada. Praesent euismod lorem eu quam fermentum, sit amet faucibus ligula eleifend. Proin pharetra suscipit neque, eget semper ex. In vehicula sed ante in cursus. Ut non diam accumsan, bibendum nisl vel, vehicula nunc. Donec quis nisi velit. Donec quam mauris, efficitur eget luctus eget, dictum ut ex. Aenean venenatis nisi vel justo scelerisque facilisis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p><h2 id="Lorem-ipsum-baslik4"><a href="#Lorem-ipsum-baslik4" class="headerlink" title="Lorem ipsum başlık4"></a>Lorem ipsum başlık4</h2><p>Pellentesque venenatis dapibus urna non placerat. Nunc ullamcorper varius quam quis tristique. Aliquam bibendum scelerisque nulla eget accumsan. Quisque ac tristique erat. Fusce pellentesque nulla commodo, dapibus ligula at, porttitor sem. Integer aliquam euismod lacus, quis fermentum eros scelerisque in. Sed lobortis semper odio, ut auctor velit elementum vitae. Sed congue nunc nisl, commodo tempus lorem dapibus vel. Nam lacinia est eget orci dictum tristique. Duis id varius leo. Duis sit amet sollicitudin elit. Mauris commodo maximus lorem, vel facilisis nibh scelerisque eu.</p>]]></content>
       
       
       
@@ -51,11 +17,180 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/hello-world/"/>
-      <url>/hello-world/</url>
+      <title>İletişim</title>
+      <link href="/iletisim/"/>
+      <url>/iletisim/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p><strong>Uygulama :</strong> Nurcan Selamoğlu</p><p><strong>E-posta :</strong> <a href="mailto:nurcan.selamoglu@tazebt.com" target="_blank" rel="noopener">nurcan.selamoglu@tazebt.com</a></p><p><img src="/css/images/nurcan.jpg" alt="Nurcan"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Zeka</title>
+      <link href="/zeka/"/>
+      <url>/zeka/</url>
+      
+        <content type="html"><![CDATA[<p>İnsanın düşünme, akıl yürütme, objektif gerçekleri algılama, yargılama ve sonuç çıkarma yeteneklerinin tamamı, anlak, dirayet, zeyreklik, feraset</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Yazılım</title>
+      <link href="/yaz%C4%B1l%C4%B1m/"/>
+      <url>/yaz%C4%B1l%C4%B1m/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Çocukların ve gençlerin toplum yaşayışında yerlerini almaları için gerekli bilgi, beceri ve anlayışları elde etmelerine, kişiliklerini geliştirmelerine okul içinde veya dışında, doğrudan veya dolaylı yardım etme, terbiye. </p></li><li><p>eğt. Eğitim bilimi.</p></li></ol><div class="image-box"><br><br><img src="/css/images/yazilim.jpg" alt="Yazılım" title="Yazılım"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Yaratıcılık</title>
+      <link href="/yarat%C4%B1c%C4%B1l%C4%B1k/"/>
+      <url>/yarat%C4%B1c%C4%B1l%C4%B1k/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Yaratıcı olma durumu: Yaratıcılığımızı sürdürelim, daha iyi bir dünya için var gücümüzle çalışalım. </p></li><li><p>Yaratma yeteneği. </p></li><li><p>Her bireyde var olduğu kabul edilen, bir şeyi yaratmaya iten farazi yatkınlık.</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Uygulama</title>
+      <link href="/uygulama/"/>
+      <url>/uygulama/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Uygulamak işi, tatbikat, tatbik, pratik: Yaptığımızın keyfî bir uygulama olduğunun farkında ama bir şey de söyleyemiyor.</p></li><li><p>Kuramsal bir bilgiyi, ilkeyi, düşünceyi herhangi bir alanda hayata tatbik etme, tatbik: Bir çeşit uygulama oluyordu yazdıkları.</p></li><li><p>huk. Yürütüm.</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tasarım</title>
+      <link href="/tasar%C4%B1m/"/>
+      <url>/tasar%C4%B1m/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Zihinde canlandırılan biçim, tasavvur: İmgeleme dayanan duyusal tasarımlar, şiirinin başlıca malzemesi. </p></li><li><p>Bir sanat eserinin, yapının veya teknik ürünün ilk taslağı, tasar çizim, dizayn: Kentsel tasarım. Çevre tasarımı. </p></li><li><p>Bir araştırma sürecinin çeşitli dönemlerinde izlenecek yol ve işlemleri tasarlayan çerçeve, tasar çizim, dizayn. </p></li><li><p>fel. Daha önce algılanmış olan bir nesne veya olayın bilinçte sonradan ortaya çıkan kopyası.</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Proje</title>
+      <link href="/proje/"/>
+      <url>/proje/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Değişik alanlarda önceden plan ve programa alınmış, maliyeti hesaplanmış, kurum ve kuruluşların yönetim organları tarafından onaylanmış, kısa ve uzun vadeye bağlanarak özel kurum veya devlet adına gerçekleştirilmesi kabul edilmiş bilimsel çalışma tasarısı. </p></li><li><p>Gerçekleştirilmesi istenen tasarı: Babamın İstanbul seferi projesi kız kardeşimle bana değil, anneme de ciddi görünüyordu.</p></li><li><p>mim. Mal sahibinin isteğine göre yapılacak bir yapıyı, belli bir programa göre inşa edilecek bir yapı bütününü, bir makine veya bir kuruluşu plan durumunda gösteren çizim.</p></li></ol><div class="image-box"><br><br><img src="/css/images/proje.jpg" alt="Proje" title="Proje"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Program</title>
+      <link href="/program/"/>
+      <url>/program/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>İzlence. </p></li><li><p>Okullarda, haftanın belli günlerinde, belli saatlerde verilecek dersleri gösteren çizelge. </p></li><li><p>Tören, gösteri, gezi vb.nin öngörülen ayrıntılarını gösteren basılı kâğıt. </p></li><li><p>Siyasi partinin, toplumsal örgütün veya hükûmetin açıkladığı ana ilkelerin tümü. </p></li><li><p>Radyo ve televizyonda sunulan, haber, müzik, eğlence gibi kendi başına bir bütün oluşturan yayınlardan her biri. </p></li><li><p>Bilgisayara bir işlemi yaptırmak için yazılan komutlar dizisi. </p></li><li><p>eğt. Yapılacak bir işin bölümlerini, bölümlerin sırasını ve zamanını gösteren tasarı, yetişek.</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Kütüphane</title>
+      <link href="/k%C3%BCt%C3%BCphane/"/>
+      <url>/k%C3%BCt%C3%BCphane/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Kitaplık.</p></li><li><p>esk. Kitap satılan dükkân, kitabevi.</p></li></ol><div class="image-box"><br><br><img src="/css/images/kutuphane.jpg" alt="Kütüphane" title="Kütüphane"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Eğitim</title>
+      <link href="/e%C4%9Fitim/"/>
+      <url>/e%C4%9Fitim/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>Çocukların ve gençlerin toplum yaşayışında yerlerini almaları için gerekli bilgi, beceri ve anlayışları elde etmelerine, kişiliklerini geliştirmelerine okul içinde veya dışında, doğrudan veya dolaylı yardım etme, terbiye.</p></li><li><p>Eğitim bilimi.</p></li></ol><div class="image-box"><br><br><img src="/css/images/egitim.jpg" alt="Eğitim" title="Eğitim"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Donanım</title>
+      <link href="/donan%C4%B1m/"/>
+      <url>/donan%C4%B1m/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>den. Bir gemi direğine, bir yelkene veya başka bir parçaya bağlı bulunan halat ve makara vb. manevra araçları. </p></li><li><p>Tesisat: Elektrik donanımı. </p></li><li><p>Bir bilgisayarda bulunan fiziksel birimler.</p></li><li><p>Bilgisayar izlenceleri, yordamlar, kurallar ve bunlara ilişkin belgelemeye karşıt anlamda, bilgi işlemde kullanılan fiziksel öğeler ya da fiziksel öğeler bütünü, bk. yazılım, bellenim.</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Bilgisayar</title>
+      <link href="/bilgisayar/"/>
+      <url>/bilgisayar/</url>
+      
+        <content type="html"><![CDATA[<p>Çok sayıda aritmetiksel veya mantıksal işlemlerden oluşan bir işi, önceden verilmiş bir programa göre yapıp sonuçlandıran elektronik araç, elektronik beyin.</p><div class="image-box"><br><br><img src="/css/images/bilgisayar.jpg" alt="Bilgisayar" title="Bilgisayar"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Bilgi</title>
+      <link href="/bilgi/"/>
+      <url>/bilgi/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>İnsan aklının erebileceği olgu, gerçek ve ilkelerin bütünü, bili, malumat. </p></li><li><p>Öğrenme, araştırma veya gözlem yolu ile elde edilen gerçek, malumat, vukuf. </p></li><li><p>İnsan zekâsının çalışması sonucu ortaya çıkan düşünce ürünü, malumat, vukuf. </p></li><li><p>fel. Genel olarak ve ilk sezi durumunda zihnin kavradığı temel düşünceler. </p></li><li><p>Bilim: Doğa bilgisi. </p></li><li><p>bl. Kurallardan yararlanarak kişinin veriye yönelttiği anlam.</p></li></ol><div class="image-box"><br><br><img src="/css/images/bilgi.jpg" alt="Bilgi" title="Bilgi"><br><br></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Algoritma</title>
+      <link href="/algoritma/"/>
+      <url>/algoritma/</url>
+      
+        <content type="html"><![CDATA[<p>Orta Çağda ondalık sayı sistemine göre son zamanlarda ise iyi tanımlanmış kuralların ve işlemlerin adım adım uygulanmasıyla bir sorunun giderilmesi veya bir sonuca en hızlı biçimde ulaşılması işlemi, Harezmi yolu.</p>]]></content>
       
       
       

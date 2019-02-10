@@ -179,14 +179,30 @@ body {
 .mobile-nav-on #wrap {
   left: 280px;
 }
-@media screen and (min-width: 768px) {
-  #main {
-    display: inline;
-    float: left;
-    width: 73.33333333333333%;
-    margin: 0 0.833333333333333%;
-  }
+/*--------*/
+.title {
+  text-align: center;
+  padding: 30px 0 15px;
 }
+.title h1 {
+  font-size: 24px;
+}
+.title p {
+  font-size: 16px;
+  padding-top: 10px;
+}
+.content {
+  text-align: center;
+  padding: 20px 0;
+}
+#main {
+  width: 100%;
+}
+/*--------*/
+/*if sidebar and sidebar isnt bottom
+  #main
+    @media mq-normal
+      column(main-column)*/
 .article-date,
 .article-category-link,
 .archive-year,
@@ -308,7 +324,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 300px;
+  height: 250px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -358,7 +374,7 @@ body {
   text-align: center;
   height: 40px;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 0;
   margin-top: -20px;
 }
@@ -504,6 +520,30 @@ body {
 .search-form-submit:focus {
   color: #777;
 }
+#site_search {
+  margin-top: 20px;
+}
+#site_search .form-group input {
+  width: 250px;
+  height: 35px;
+  padding-left: 10px;
+  border: 2px solid #0f048e;
+}
+#local-search-result {
+  width: 264px;
+  margin: auto;
+  background-color: #fff;
+  position: relative;
+  z-index: 10;
+}
+#local-search-result ul li {
+  padding: 5px;
+  border-bottom: 1px solid #e2dede;
+}
+#local-search-result ul li a {
+  color: #6d6c6c;
+  text-decoration: none;
+}
 .article {
   margin: 50px 0;
 }
@@ -520,6 +560,7 @@ body {
 }
 .article-date {
   float: left;
+  display: none;
 }
 .article-category {
   float: left;
